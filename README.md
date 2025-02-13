@@ -1,4 +1,4 @@
-# enigma
+# Enigma
 Python Implementation of Enigma
 
 
