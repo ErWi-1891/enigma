@@ -1,5 +1,5 @@
 # Enigma
-Python Implementation of Enigma
+Python implementation of Enigma
 
 
 🔍 About
