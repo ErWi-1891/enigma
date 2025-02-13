@@ -26,7 +26,7 @@ The encrypted message can be decrypted only if the rotor settings are known.
 
 ✉️ Example Usage
 
-Enter the message you want to encrypt: ATTACK AT DAWN
+Enter the message you want to encrypt: ATTACK AT DAWN;
 Encrypted message: YBBYHP YB ZVBL.
 
 🔮 Future Improvements (possibly)
